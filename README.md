@@ -3,7 +3,7 @@
 
 ## 主要作品
 
-* [lovincloud](https://github.com/lovinstudio/lovincloud):SpringCloud应用案例，下面是技术栈：
+### [lovincloud](https://github.com/lovinstudio/lovincloud):SpringCloud应用案例，下面是技术栈：
 - spring-cloud-starter-netflix-eureka-server
 - spring-cloud-starter-netflix-eureka-client
 - spring-cloud-starter-netflix-ribbon
@@ -14,17 +14,17 @@
 - spring-cloud-starter-netflix-zuul
 
 ----
-* [springbootquartzs](https://github.com/lovinstudio/springbootquartzs):Sprigboot整合spring-boot-starter-quartz应用集群的案例，下面是主要技术栈：
+### [springbootquartzs](https://github.com/lovinstudio/springbootquartzs):Sprigboot整合spring-boot-starter-quartz应用集群的案例，下面是主要技术栈：
 - spring-boot-starter-quartz：定时任务框架，集成quartz
 - spring-boot-starter-jdbc：连接数据库，用以保持定时任务数据，同时维持集群中的锁
 
 ----
-* [springbootredis](https://github.com/lovinstudio/springbootredis):springboot的web应用集成redis的脚手架，包含了常用的缓存方法，下面是主要技术栈：
+### [springbootredis](https://github.com/lovinstudio/springbootredis):springboot的web应用集成redis的脚手架，包含了常用的缓存方法，下面是主要技术栈：
 - spring-boot-starter-data-redis
 - spring-boot-starter-jdbc
 
 ----
-* [redis分布式锁](https://github.com/eelve/distributed-lock)：用于集群的分布式锁
+### [redis分布式锁](https://github.com/eelve/distributed-lock)：用于集群的分布式锁
 - redisson
 - 静态代理和动态代理分别实现的锁
 
