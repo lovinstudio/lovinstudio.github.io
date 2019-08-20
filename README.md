@@ -30,12 +30,12 @@
 
 
 ## 接下来的工作
-- lovin-boot：封装springboot，开箱即用，脚手架
-- lovin-cloud: 基于spring-cloud的秒杀系统
+- [lovin-boot](https://github.com/lovinstudio/lovin-boot)：封装springboot，开箱即用，脚手架
+- [lovin-cloud](https://github.com/lovinstudio/lovin-cloud): 基于spring-cloud的秒杀系统
 
 ### 下面是主要的架构图
 
-<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:525px; height:245px;" src="https://www.processon.com/embed/mind/5d5a034de4b0869fa418f4bd"></iframe>
+![主要架构](http://assets.processon.com/chart_image/5d5a034de4b0869fa418f4c2.png)
 
 ---
 ## Support or Contact
