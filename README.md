@@ -39,5 +39,6 @@
 
 ---
 ## Support or Contact
- [我们的网站：](https://lovin.eelve.com/)https://lovin.eelve.com/.
-**你也可以通过官方邮箱【brothers@eelve.com】来联系我们**
+ - [我们的网站：](https://lovin.eelve.com/)https://lovin.eelve.com/.
+ 
+ - **你也可以通过官方邮箱【brothers@eelve.com】来联系我们**
