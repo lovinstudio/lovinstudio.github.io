@@ -35,7 +35,7 @@
 
 ### 下面是主要的架构图
 
-![主要架构：](https://i.loli.net/2020/03/19/YPtBlzqNGsvZf4g.png)
+![主要架构：](image/next.png)
 
 ---
 ## Support or Contact
