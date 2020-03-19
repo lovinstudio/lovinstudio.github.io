@@ -35,10 +35,11 @@
 
 ### 下面是主要的架构图
 
-![主要架构：](image/next.png)
+![主要架构：](https://i.loli.net/2020/03/19/YPtBlzqNGsvZf4g.png)
 
 ---
 ## Support or Contact
  - [我们的网站：](https://lovin.eelve.com/)https://lovin.eelve.com/
+ - [南国薏米：](https://eelve.com/)https://eelve.com/
  
  - **你也可以通过官方邮箱【brothers@eelve.com】来联系我们**
