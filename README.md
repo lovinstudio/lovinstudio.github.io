@@ -42,4 +42,4 @@
  - [我们的网站：](https://lovin.eelve.com/)https://lovin.eelve.com/
  - [南国薏米：](https://eelve.com/)https://eelve.com/
  
- - **你也可以通过官方邮箱<brothers@eelve.com>来联系我们**
+ - **你也可以通过官方邮箱来联系我们：<brothers@eelve.com>**
