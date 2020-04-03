@@ -19,7 +19,7 @@
 - spring-boot-starter-jdbc：连接数据库，用以保持定时任务数据，同时维持集群中的锁
 
 ----
-### [springbootredis](https://github.com/lovinstudio/springbootredis)：Springboot的web应用集成redis的脚手架，包含了常用的缓存方法，下面是主要技术栈：
+### [lovinstarter](https://github.com/lovinstudio/lovinstarter)：Springboot的web应用集成redis的脚手架，包含了常用的缓存方法，下面是主要技术栈：
 - spring-boot-starter-data-redis
 - spring-boot-starter-jdbc
 
